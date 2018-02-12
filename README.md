@@ -3,7 +3,7 @@ The operating temperature strongly affects biogas yield, process stability and p
 
 # Data Avilability
 
-
+Raw sequences were submitted to the NCBI Sequence Read Archive (SRA) under the study accession number PRJEB24500.
 
 # Description of scripts included
 

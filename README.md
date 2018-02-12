@@ -22,4 +22,4 @@ Requires two input arguments; path to cutadapt.sh output and plotname.pdf
 ## DADA2_Script_2.r
 Continuation of DADA2_Script_1.r, takes input from cutadapt.sh script and further processes the reads according to the [DADA2 tutorial](https://benjjneb.github.io/dada2/bigdata_paired.html) with some minor modifications.
 
-Requires seven arguments; path to cutadapt.sh output, trunc length forward reads, trunc length reverse reads, filename of rds obejct for the seqtab, , path to the trainsset for [taxonomic assignment](https://benjjneb.github.io/dada2/assign.html), savename of the rds object for the taxa table, savename of the phyloseq object resulting from the combination of seqtab and tax_tab.
+Requires seven arguments; path to cutadapt.sh output, trunc length forward reads, trunc length reverse reads, filename of rds obejct for the seqtab, path to the trainsset for [taxonomic assignment](https://benjjneb.github.io/dada2/assign.html), savename of the rds object for the taxa table, savename of the phyloseq object resulting from the combination of seqtab and tax_tab.
